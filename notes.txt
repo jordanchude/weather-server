@@ -1,0 +1,8 @@
+Node Steps
+1. run npm init -y
+2. create src folder for scripts
+4. create app.js
+5. require express
+6. Assign 'app' to express function
+7. Create routes
+8. Load server on port 3000
