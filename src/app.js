@@ -1,6 +1,9 @@
 // DEPENDENCIES
 const express = require('express');
 
+console.log(__dirname)
+console.log(__filename)
+
 // used to store express function
 const app = express()
 
